@@ -2,7 +2,7 @@
     "name": "purple-haze",
     "displayName": "purple-haze",
     "description": "A dark theme based on purple haze color pallete",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.68.0"
     },
