@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/icon.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +18,10 @@
                 "path": "./themes/Purple Haze Code-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pcarvalho-dev/purple-haze-theme"
+    },
+    "publisher": "PabloCarvalho"
 }
