@@ -9,3 +9,5 @@ Please evaluate the theme and give your feedback.
 * [Website](https://pablocarvalho.dev.br/)
 
 **Enjoy!**
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
